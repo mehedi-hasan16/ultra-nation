@@ -1,0 +1,24 @@
+.element-style img{
+    height: 40px;
+}
+.element-style{
+    border: 2px solid tomato;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 5px;
+    background-color: gainsboro;
+    box-shadow: 5px 5px 20px gray;
+}
+
+.element-style button{
+    background-color: #42ba96;
+    height: 30px;
+    border-radius: 5px;
+    border: 1px solid tomato;
+
+}
+.element-style button:hover{
+    background-color:greenyellow;
+    cursor: pointer;
+
+}
